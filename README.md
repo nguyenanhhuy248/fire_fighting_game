@@ -39,5 +39,3 @@ Remember to pickup an oxygen mask first, then a fire extinguisher. You will then
 -----------------
 
 You may need to to collect another fire extinguisher and spray until the fire power reaches zero.
-
-Have fun playing!
